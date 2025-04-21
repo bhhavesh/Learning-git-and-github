@@ -1,0 +1,32 @@
+1  ls -a
+    2  ls -l
+    3  rm testing.py
+    4  ls -l
+    5  git init
+    6  ls -a
+    7  it status
+    8  ls
+    9  git status
+   10* 
+   11  git status
+   12  git commit -m "added testing file"
+   13  git config --global
+   14  git config --global user.name "Bhavesh"
+   15  git config --global user.name "dixitbhavesh155@gmail.com"
+   16  git config --list
+   17  ~/.gitconfig
+   18  Omit --global
+   19  clear
+   20  git config --global user.name "Your Name"
+   21  git config --global user.email "your@email.com"
+   22  git config user.name "bhavesh"
+   23  git config user.email "dixitbhavesh155@gmail.com"
+   24  git config --list
+   25  git commit -m "added testing file"
+   26  rm testing.py
+   27  ls -l
+   28  git status
+   29  git restore testing.py
+   30  ls -l
+   31  clear
+   32  git status
