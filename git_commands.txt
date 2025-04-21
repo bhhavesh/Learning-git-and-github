@@ -68,3 +68,26 @@
    68  history
 
 this is new changes from github
+69  git pull origin master
+   70    clear
+   71  git branch
+   72  git branch dev
+   73  git branch
+   74  git switch dev
+   75  git status
+   76  git add dev_file
+   77  git add dev_file.txt
+   78  git commit -m "new branch file"
+   79  git ststus
+   80  git status
+   81  git switch master
+   82  git switch dev
+   83  git log
+   84*
+   85  git status
+   86  clear
+   87  git log --oneline
+   88  git push origin dev
+   89  git switch master
+   90  git pull origin master
+   91  history
