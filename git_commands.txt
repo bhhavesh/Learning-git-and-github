@@ -58,3 +58,11 @@
    58  git push -u origin master
    59  clear
    60   history
+    61  git status
+   62  git add push_file.txt
+   63  git add git_commands.txt
+   64  git commit -m "file comit"
+   65  git status
+   66  git push -u origin master
+   67  clear
+   68  history
